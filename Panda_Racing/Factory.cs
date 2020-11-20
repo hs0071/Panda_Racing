@@ -18,7 +18,7 @@ namespace Panda_Racing
                     p = new Aman(null, MaximumBet, 50, bet);
                     break;
 
-                case "Harjot":
+                case "harjot":
                     p = new Harjot(null, MaximumBet, 50, bet);
                     break;
 
